@@ -2,7 +2,7 @@
 
 The Titanic challenge on Kaggle is a competition in which the task is to predict the survival or the death of a given passenger based on a set of variables describing him such as his age, his sex, or his passenger class on the boat.
 
-This is my first try on the challenge, even my first project on the field of Machine Learning. I have recently achieved an accuracy score of 0.72 on the public leaderboard, which is not so good. I am a new guy in the field. I make the prediction via the **Desicion Tree Classifier**. My work is stored in the file `titanic-survival-prediction.ipynb` and. My final result is stored in the file `submission.csv`. 
+This is my first try on the challenge, even my first project on the field of Machine Learning. I am a new guy in the field. I make the prediction via the **Desicion Tree Classifier**. My work is stored in the file `titanic-survival-prediction.ipynb` and. My final result is stored in the file `submission.csv`. 
 
 
 
